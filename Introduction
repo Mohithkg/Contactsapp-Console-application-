@@ -1,0 +1,21 @@
+This work was centered on the design and implementation of a Contacts app. The 
+study traced the contacts list to store the name and contact number of a person 
+using the Linked list. This project work also focused primarily on storing contact 
+data of person. Interestingly, in the end we store the contact details in the CSV file 
+and separate the data of person. Therefore, this project will help immensely in the 
+following way. Easy storing the data of contact person to the list ,easy to delete the 
+contact from the list ,easy to search the contact in the list.
+
+As per the source code ,
+
+First we create a node with the contact information of first name, last name and mobile 
+number of person.
+• create_file from this function we create the file in csv format to insert the 
+information clearly using the file concepts.
+• After that ,we create the header node as start to point the node to the getnode to 
+store the contact information in the getnode. 
+• We use the insert function to check the file is created or not ,if file is created we can 
+insert the contact information to the node and same will be copied to file.
+• A search function is implemented with Linear search Technique.
+• Function del() is used to delete The Contact nodes in linked list by using free 
+function.
